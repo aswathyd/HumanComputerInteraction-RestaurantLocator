@@ -1,8 +1,10 @@
 # **Restaturant Locator**
 
-Designed and build a restaurant locator which allows customers to find a restaurant based on their choice of cuisine. 
+Designed and built a restaurant locator which allows customers to find a restaurant based on their choice of cuisine. 
 
-Involved going through all stages of software development cycle starting from requirement gathering, feasibility study, user testing using paper prototype, medium and high level prototype.
+Development of final prototype involved going through all stages of software development cycle starting from requirement gathering, feasibility study, user testing using paper prototype, medium and high level prototype.
+
+Assignment documents illustrate the states of system during different cycles.
 
 High level prototype was developed using VB.Net. 
 
