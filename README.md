@@ -6,8 +6,9 @@ Involved going through all stages of software development cycle starting from re
 
 High level prototype was developed using VB.Net. 
 
-**Paper Prototype:** [https://www.youtube.com/watch?v=LhdeItpukGQ](http://)
+**Paper Prototype:** [https://www.youtube.com/watch?v=LhdeItpukGQ](https://www.youtube.com/watch?v=LhdeItpukGQ)
 
-**Medium Fidelity Prototype:** [https://www.youtube.com/watch?v=MKO4FtswOTI](http://)
+**Medium Fidelity Prototype:** [https://www.youtube.com/watch?v=MKO4FtswOTI](https://www.youtube.com/watch?v=MKO4FtswOTI)
 
-**High Fidelity Prototype: **[https://www.youtube.com/watch?v=BL1UhJW8x-Y](http://)
+
+**High Fidelity Prototype:** [https://www.youtube.com/watch?v=BL1UhJW8x-Y](https://www.youtube.com/watch?v=BL1UhJW8x-Y)
